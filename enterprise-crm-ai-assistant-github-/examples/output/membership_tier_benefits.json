@@ -1,0 +1,101 @@
+{
+  "scenario": "membership_tier_benefits",
+  "source_note": "This demo uses anonymized mock OCR text reconstructed from public-style loyalty program screenshots.",
+  "records": [
+    {
+      "field": "Information Source Channel",
+      "exists": "Yes",
+      "extracted_content": "Brand A Loyalty Program mini program membership benefits page"
+    },
+    {
+      "field": "Tier Benefit Channel",
+      "exists": "Yes",
+      "extracted_content": "Official Mini Program"
+    },
+    {
+      "field": "Update Date",
+      "exists": "Yes",
+      "extracted_content": "2024-10-08"
+    },
+    {
+      "field": "Membership Tier",
+      "exists": "Yes",
+      "extracted_content": "Tier 1, Tier 2, Tier 3, Tier 4, Tier 5, Tier 6"
+    },
+    {
+      "field": "Membership Tier Name",
+      "exists": "Yes",
+      "extracted_content": "Basic Member, Blue Diamond, Star Diamond, Gold Diamond, Black Diamond, Platinum Diamond"
+    },
+    {
+      "field": "Tier Qualification Criteria",
+      "exists": "Yes",
+      "extracted_content": "Basic: registered but no full-size product purchase; Blue Diamond: purchased any full-size product; Star Diamond: single purchase ≥ ¥1,500 or annual cumulative spend ≥ ¥2,500; Gold Diamond: single or annual cumulative spend ≥ ¥5,000; Black Diamond: ≥ ¥10,000; Platinum Diamond: ≥ ¥25,000"
+    },
+    {
+      "field": "Birthday Benefit",
+      "exists": "Yes",
+      "extracted_content": "All tiers receive birthday benefits; first purchase during birthday month earns double points up to 50,000 points; birthday benefit is based on the registered birthday; limited to once per year; expired benefits cannot be compensated"
+    },
+    {
+      "field": "Exclusive Service",
+      "exists": "Yes",
+      "extracted_content": "Premium salon service for selected high-tier members; luxury SPA service for selected upper-tier members in designated cities"
+    },
+    {
+      "field": "Member Privilege",
+      "exists": "Yes",
+      "extracted_content": "Different point multipliers by tier; repeat purchase benefit for Tier 2 and above; counter visit benefit for Tier 2 and above; counter care service for Tier 2 and above; upgrade point gifts for Tier 3 and above"
+    },
+    {
+      "field": "Tier Retention Criteria",
+      "exists": "Yes",
+      "extracted_content": "Membership validity lasts until the end of the 12th natural month from enrollment or upgrade; tier may be retained, upgraded, downgraded, or cross-adjusted based on spending before expiration; returns may adjust points and tier status"
+    },
+    {
+      "field": "Tier Retention Benefit",
+      "exists": "No",
+      "extracted_content": "Not Mentioned"
+    },
+    {
+      "field": "Tier Upgrade Criteria",
+      "exists": "Yes",
+      "extracted_content": "Members can upgrade when a single purchase or annual cumulative spending reaches the corresponding tier threshold"
+    },
+    {
+      "field": "Tier Upgrade Benefit",
+      "exists": "Yes",
+      "extracted_content": "Upgrade to Tier 3/4/5/6 grants 1,000/2,000/3,000/4,000 points respectively; points arrive on the third working day after upgrade; same-tier upgrade gift can only be received once within 12 months"
+    },
+    {
+      "field": "Year-End Appreciation Gift",
+      "exists": "No",
+      "extracted_content": "Not Mentioned"
+    },
+    {
+      "field": "VIP Event",
+      "exists": "No",
+      "extracted_content": "Not Mentioned"
+    },
+    {
+      "field": "Other Mechanics",
+      "exists": "Yes",
+      "extracted_content": "Birthday month double points, upgrade bonus points, large-order point freeze mechanism, one-person-one-account rule, cross-channel points integration"
+    },
+    {
+      "field": "Other Mechanics Name",
+      "exists": "Yes",
+      "extracted_content": "Birthday Month Double Points; Upgrade Bonus Points; Large-order Point Freeze; One-person-one-account Rule; Cross-channel Points Integration"
+    },
+    {
+      "field": "Newly Observed Mechanic",
+      "exists": "No",
+      "extracted_content": "Not Mentioned"
+    },
+    {
+      "field": "Newly Observed Mechanic Name",
+      "exists": "No",
+      "extracted_content": "Not Mentioned"
+    }
+  ]
+}
