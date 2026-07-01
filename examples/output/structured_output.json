@@ -1,0 +1,100 @@
+{
+  "scenario": "membership_tier_benefits",
+  "records": [
+    {
+      "field": "Information Source Channel",
+      "exists": "Yes",
+      "extracted_content": "Brand A Loyalty Program benefits page"
+    },
+    {
+      "field": "Tier Benefit Channel",
+      "exists": "Yes",
+      "extracted_content": "Official Mini Program"
+    },
+    {
+      "field": "Update Date",
+      "exists": "Yes",
+      "extracted_content": "2024-10-08"
+    },
+    {
+      "field": "Membership Tier",
+      "exists": "Yes",
+      "extracted_content": "Tier 1, Tier 2, Tier 3, Tier 4"
+    },
+    {
+      "field": "Membership Tier Name",
+      "exists": "Yes",
+      "extracted_content": "Basic Member, Silver Member, Gold Member, Platinum Member"
+    },
+    {
+      "field": "Tier Qualification Criteria",
+      "exists": "Yes",
+      "extracted_content": "Basic Member after registration; Silver Member after first full-size purchase; Gold Member after annual spend reaches 1,500 USD; Platinum Member after annual spend reaches 5,000 USD"
+    },
+    {
+      "field": "Birthday Benefit",
+      "exists": "Yes",
+      "extracted_content": "Members receive birthday month double points, limited to once per year"
+    },
+    {
+      "field": "Exclusive Service",
+      "exists": "Yes",
+      "extracted_content": "Gold and Platinum members may receive priority appointment booking"
+    },
+    {
+      "field": "Member Privilege",
+      "exists": "Yes",
+      "extracted_content": "Tier-based points multiplier, member-only events, and early access to selected launches"
+    },
+    {
+      "field": "Tier Retention Criteria",
+      "exists": "Yes",
+      "extracted_content": "Tier status is reviewed every 12 months based on annual qualified spend"
+    },
+    {
+      "field": "Tier Retention Benefit",
+      "exists": "Not Mentioned",
+      "extracted_content": "Not Mentioned"
+    },
+    {
+      "field": "Tier Upgrade Criteria",
+      "exists": "Yes",
+      "extracted_content": "Members upgrade automatically when annual qualified spend reaches the next tier threshold"
+    },
+    {
+      "field": "Tier Upgrade Benefit",
+      "exists": "Yes",
+      "extracted_content": "Gold upgrade grants 1,000 bonus points; Platinum upgrade grants 3,000 bonus points"
+    },
+    {
+      "field": "Year-End Appreciation Gift",
+      "exists": "Not Mentioned",
+      "extracted_content": "Not Mentioned"
+    },
+    {
+      "field": "VIP Event",
+      "exists": "Not Mentioned",
+      "extracted_content": "Not Mentioned"
+    },
+    {
+      "field": "Other Mechanics",
+      "exists": "Yes",
+      "extracted_content": "Birthday month double points, tier-based points multiplier, upgrade bonus points"
+    },
+    {
+      "field": "Other Mechanics Name",
+      "exists": "Yes",
+      "extracted_content": "Birthday Month Double Points; Tier Points Multiplier; Upgrade Bonus Points"
+    },
+    {
+      "field": "Newly Observed Mechanic",
+      "exists": "Not Mentioned",
+      "extracted_content": "Not Mentioned"
+    },
+    {
+      "field": "Newly Observed Mechanic Name",
+      "exists": "Not Mentioned",
+      "extracted_content": "Not Mentioned"
+    }
+  ]
+}

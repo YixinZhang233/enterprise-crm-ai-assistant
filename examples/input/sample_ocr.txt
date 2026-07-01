@@ -1,0 +1,14 @@
+Information Source Channel: Brand A Loyalty Program benefits page
+Tier Benefit Channel: Official Mini Program
+Update Date: 2024-10-08
+Membership Tier: Tier 1, Tier 2, Tier 3, Tier 4
+Membership Tier Name: Basic Member, Silver Member, Gold Member, Platinum Member
+Tier Qualification Criteria: Basic Member after registration; Silver Member after first full-size purchase; Gold Member after annual spend reaches 1,500 USD; Platinum Member after annual spend reaches 5,000 USD
+Birthday Benefit: Members receive birthday month double points, limited to once per year
+Exclusive Service: Gold and Platinum members may receive priority appointment booking
+Member Privilege: Tier-based points multiplier, member-only events, and early access to selected launches
+Tier Retention Criteria: Tier status is reviewed every 12 months based on annual qualified spend
+Tier Upgrade Criteria: Members upgrade automatically when annual qualified spend reaches the next tier threshold
+Tier Upgrade Benefit: Gold upgrade grants 1,000 bonus points; Platinum upgrade grants 3,000 bonus points
+Other Mechanics: Birthday month double points, tier-based points multiplier, upgrade bonus points
+Other Mechanics Name: Birthday Month Double Points; Tier Points Multiplier; Upgrade Bonus Points
