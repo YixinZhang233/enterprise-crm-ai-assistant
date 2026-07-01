@@ -1,0 +1,12 @@
+Information Source Channel: Mobile app membership page
+Tier Benefit Channel: Membership center
+Update Date: 2026-04-10
+Membership Tier: Level 2
+Membership Tier Name: Gold
+Tier Qualification Criteria: Spend 500 USD within 12 months
+Birthday Benefit: Birthday month coupon and complimentary gift
+Exclusive Service: Priority appointment booking
+Member Privilege: Early access to selected product launches
+Tier Retention Criteria: Spend 400 USD within the membership year
+Tier Upgrade Criteria: Spend 1000 USD within 12 months
+VIP Event: Invitation to seasonal product workshop

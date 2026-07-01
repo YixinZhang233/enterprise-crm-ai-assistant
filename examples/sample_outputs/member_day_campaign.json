@@ -1,0 +1,105 @@
+{
+  "scenario": "member_day_campaign",
+  "records": [
+    {
+      "field": "Campaign Channel",
+      "exists": "Yes",
+      "value": "App membership center banner"
+    },
+    {
+      "field": "Campaign Theme",
+      "exists": "Yes",
+      "value": "Monthly Member Day"
+    },
+    {
+      "field": "Start Date",
+      "exists": "Yes",
+      "value": "2026-05-20"
+    },
+    {
+      "field": "End Date",
+      "exists": "Yes",
+      "value": "2026-05-22"
+    },
+    {
+      "field": "Update Date",
+      "exists": "Yes",
+      "value": "2026-05-18"
+    },
+    {
+      "field": "Store Visit Gift",
+      "exists": "Yes",
+      "value": "Complimentary mini gift after in-store check-in"
+    },
+    {
+      "field": "Tier Upgrade Acceleration",
+      "exists": "Not Mentioned",
+      "value": "Not Mentioned"
+    },
+    {
+      "field": "Gift With Purchase",
+      "exists": "Yes",
+      "value": "Gift set after spending 150 USD in one transaction"
+    },
+    {
+      "field": "Points Inflation",
+      "exists": "Not Mentioned",
+      "value": "Not Mentioned"
+    },
+    {
+      "field": "Historical Points Redemption Gift",
+      "exists": "Not Mentioned",
+      "value": "Not Mentioned"
+    },
+    {
+      "field": "Points Multiplier",
+      "exists": "Yes",
+      "value": "2x points for eligible purchases during the campaign"
+    },
+    {
+      "field": "On-Site Instant Redemption",
+      "exists": "Not Mentioned",
+      "value": "Not Mentioned"
+    },
+    {
+      "field": "Points Redemption Gift",
+      "exists": "Yes",
+      "value": "Members can redeem a travel pouch with 800 points"
+    },
+    {
+      "field": "Combined Mechanics",
+      "exists": "Yes",
+      "value": "Points redemption plus gift with purchase plus store visit gift"
+    },
+    {
+      "field": "Campaign Key Visual And Message",
+      "exists": "Yes",
+      "value": "Celebrate monthly member rewards with limited-time benefits"
+    },
+    {
+      "field": "MGM Referral",
+      "exists": "Not Mentioned",
+      "value": "Not Mentioned"
+    },
+    {
+      "field": "Other Mechanics",
+      "exists": "Not Mentioned",
+      "value": "Not Mentioned"
+    },
+    {
+      "field": "Other Mechanics Name",
+      "exists": "Not Mentioned",
+      "value": "Not Mentioned"
+    },
+    {
+      "field": "Newly Observed Mechanic",
+      "exists": "Not Mentioned",
+      "value": "Not Mentioned"
+    },
+    {
+      "field": "Newly Observed Mechanic Name",
+      "exists": "Not Mentioned",
+      "value": "Not Mentioned"
+    }
+  ]
+}
